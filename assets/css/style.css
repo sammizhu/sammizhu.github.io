@@ -463,6 +463,9 @@ section {
   margin-right: 100px;
   margin-left: 50px;
 }
+.resume .p {
+  text-align: center;
+}
 .resume .resume-title {
   font-size: 26px;
   font-weight: 700;
