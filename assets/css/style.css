@@ -40,6 +40,12 @@ h5 {
   font-family: 'Nanum Pen Script', cursive;
 }
 
+@media (min-width:320px) {
+  #main{
+    margin-left: 3em;
+  }
+}
+
 /*--------------------------------------------------------------
 # Back to top button
 --------------------------------------------------------------*/
